@@ -33,7 +33,7 @@
 
 -> head -5 filename.txt - displays the top 5 lines of file
 
-Process the text data using Bash commands :
+## Process the text data using Bash commands :
 
 1)Transform each space ' ' into a return character '\12' (aka ASCII line feed)
 	tr ' ' '\12' < data.txt
